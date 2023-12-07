@@ -1,6 +1,8 @@
 ### Hi there 👋
-you know who I am
-輔仁大學 統計資訊學系
+輔仁大學 統計資訊學系 大一 19歲 處女座
+畢業於新竹磐石高中 南投出生
+興趣 追劇  吃美食
+
 <!--
 **sophiatw88/sophiatw88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
