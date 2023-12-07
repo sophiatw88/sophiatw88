@@ -1,5 +1,6 @@
 ### Hi there 👋
 you know who I am
+輔仁大學 統計資訊學系
 <!--
 **sophiatw88/sophiatw88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
